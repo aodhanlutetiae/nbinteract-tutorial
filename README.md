@@ -1,2 +1,2 @@
 # nbinteract-tutorial
-THIS IS A README FOR TESTING NBIMPORT - I'M NOT YET SURE WHAT IT WILL DO.
+This repo is for testing NBINTERACT, which "is a Python package that provides a command-line tool to generate interactive web pages from Jupyter notebooks".
